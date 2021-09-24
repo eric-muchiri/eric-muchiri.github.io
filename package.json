@@ -1,0 +1,27 @@
+{
+  "name": "eric-muchiri.github.io",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-muchiri/eric-muchiri.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "bootstrap",
+    "jekyll"
+  ],
+  "author": "eric-muchiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric-muchiri/eric-muchiri.github.io/issues"
+  },
+  "homepage": "https://github.com/eric-muchiri/eric-muchiri.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
